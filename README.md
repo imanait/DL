@@ -1,3 +1,3 @@
-#Description
+# Description
 We have tried gender and age detection with two face recognition ways. The first one was ... 
 And the second was using HAAR cascade.
