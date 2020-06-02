@@ -1,7 +1,10 @@
 ## Description
 We have tried gender and age detection with two face recognition ways. 
-The first one with a loaded the pre-trained model of Yolo to detect Faces from github of [**Thanh Nguyen**]https://github.com/sthanhng/yoloface 
+
+The first one with a loaded the pre-trained model of Yolo to detect Faces from github of 
+[**Thanh Nguyen**](https://github.com/sthanhng/yoloface)
 And the second was using HAAR cascade which was less accurate but ran faster.
+
 For the age and gender recognition we used a method was introduced by two Israel researchers, Gil Levi and Tal Hassner in 2015. We have used the CNN models trained by them in this example. 
 
 ## YOLOv3 results example
